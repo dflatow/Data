@@ -7,8 +7,7 @@
 * Begin date
 * End Date
 * Number of Tweets
-
-Fields
+* Fields
 
 ## Download
 * wget instructions
