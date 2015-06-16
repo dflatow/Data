@@ -4,10 +4,11 @@
 * tweets.csv.gz
 
 ## Details
-* Begin date
-* End Date
-* Number of Tweets
-* Fields
+* delimiter: tab
+* begin date: 2012-07-21
+* end Date: 2014-07-23
+* number of observations: 14506302
+* fields: `'message', 'latitude', 'longitude', 'location', 'user_id', 'epoch_time', 'source'`
 
 ## Download
 * `wget https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0`
