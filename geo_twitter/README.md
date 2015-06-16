@@ -4,7 +4,7 @@
 * tweets.csv.gz
 
 ## Details
-*Begin date
+* Begin date
 * End Date
 * Number of Tweets
 
