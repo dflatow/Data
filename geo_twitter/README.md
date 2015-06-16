@@ -11,7 +11,7 @@
 
 ## Download
 * `wget https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0`
-* or navigate (here)[https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0]
+* or just navigate [here](https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0)
 
 ## Notes
 ...
