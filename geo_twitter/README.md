@@ -13,6 +13,7 @@
 ## Download
 * `wget https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0`
 * or just navigate [here](https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0)
+* [img](https://raw.githubusercontent.com/dflatow/Data/master/geo_twitter/example_rows.png)
 
 ## Notes
 ...
