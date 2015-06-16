@@ -14,8 +14,8 @@
 
  
 ## Download
-* `wget https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0`
-* or just navigate [here](https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0)
+* `wget https://www.googledrive.com/host/0B6c2UcbOovF_MWRVTWIzaTBsS2c -O tweets.csv.gz`
+* or just navigate [here](https://drive.google.com/file/d/0B6c2UcbOovF_MWRVTWIzaTBsS2c/view?usp=sharing)
 
 
 ## Notes
