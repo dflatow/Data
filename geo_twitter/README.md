@@ -10,8 +10,8 @@
 * Fields
 
 ## Download
-* wget instructions
-* link
+* `wget https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0`
+* or navigate (here)[https://www.dropbox.com/s/ga5hzwsdbkol7bw/tweets.csv.gz?dl=0]
 
 ## Notes
 ...
