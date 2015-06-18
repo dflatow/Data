@@ -14,9 +14,4 @@
 
  
 ## Download
-* `wget https://www.googledrive.com/host/0B6c2UcbOovF_MWRVTWIzaTBsS2c -O tweets.csv.gz`
-* or just navigate [here](https://drive.google.com/file/d/0B6c2UcbOovF_MWRVTWIzaTBsS2c/view?usp=sharing)
-
-
-## Notes
-...
+* please contact me
